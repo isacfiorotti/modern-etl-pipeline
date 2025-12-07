@@ -1,4 +1,8 @@
 app_name:
   - 'modern-etl-pipeline'
 
-data_lake_path: '../delta-lake'
+delta_path: '../delta-lake'
+
+dbt:
+  - project_path: '/usr/local/airflow/dbt'
+  - profile_name: 'modern-etl-pipeline'
