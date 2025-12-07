@@ -1,4 +1,3 @@
-### Gold Price ETL Pipeline
 This is a an end-to-end data engineering project that ingests gold prices from Yahoo Finance, cleans and enriches the data, and produces enriched analytics-ready data using Delta Lake, dbt and PySpark.
 
 I was inspired to do this given the recent price surge on gold, initially driven up by international central banks increasing their supply of gold following a move away from of the dollar, while the dollar remains the world's global currency, this is a clear desire to decrease reliance on the global reserve currency as a store of value.
