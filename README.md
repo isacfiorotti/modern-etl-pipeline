@@ -1,5 +1,3 @@
-# Lakehouse ETL with Delta, PySpark, and dbt
-
 ### Gold Price ETL Pipeline
 This is a an end-to-end data engineering project that ingests gold prices from Yahoo Finance, cleans and enriches the data, and produces enriched analytics-ready data using Delta Lake, dbt and PySpark.
 
